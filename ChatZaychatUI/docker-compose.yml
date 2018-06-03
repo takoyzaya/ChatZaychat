@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  chatzaychatui:
+    image: ${DOCKER_REGISTRY}chatzaychatui
+    build:
+      context: .
+      dockerfile: ChatZaychatUI\Dockerfile

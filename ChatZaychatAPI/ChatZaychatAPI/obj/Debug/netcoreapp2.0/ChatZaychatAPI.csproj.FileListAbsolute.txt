@@ -1,0 +1,11 @@
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.AssemblyInfo.cs
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\bin\Debug\netcoreapp2.0\ChatZaychatAPI.deps.json
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\bin\Debug\netcoreapp2.0\ChatZaychatAPI.runtimeconfig.json
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\bin\Debug\netcoreapp2.0\ChatZaychatAPI.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\bin\Debug\netcoreapp2.0\ChatZaychatAPI.dll
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\bin\Debug\netcoreapp2.0\ChatZaychatAPI.pdb
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.dll
+C:\Users\Professional\source\repos\ChatZaychatAPI\ChatZaychatAPI\obj\Debug\netcoreapp2.0\ChatZaychatAPI.pdb

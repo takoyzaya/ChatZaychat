@@ -1,0 +1,12 @@
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\bin\Debug\netcoreapp2.0\ChatZaychatUI.deps.json
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\bin\Debug\netcoreapp2.0\ChatZaychatUI.runtimeconfig.json
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\bin\Debug\netcoreapp2.0\ChatZaychatUI.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\bin\Debug\netcoreapp2.0\ChatZaychatUI.dll
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\bin\Debug\netcoreapp2.0\ChatZaychatUI.pdb
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.AssemblyInfo.cs
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.dll
+C:\Users\Professional\source\repos\ChatZaychatUI\ChatZaychatUI\obj\Debug\netcoreapp2.0\ChatZaychatUI.pdb
